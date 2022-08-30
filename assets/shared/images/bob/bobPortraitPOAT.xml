@@ -1,0 +1,22 @@
+<TextureAtlas imagePath="bobPortraitPOAT.png">
+	
+	
+	<SubTexture name="Bob Portrait Enter HELL0000" x="0" y="0" width="640" height="372" />
+	<SubTexture name="Bob Portrait Enter HELL0001" x="640" y="0" width="640" height="372" />
+	<SubTexture name="Bob Portrait Enter HELL0002" x="1280" y="0" width="640" height="372" />
+	<SubTexture name="Bob Portrait Enter HELL0003" x="0" y="372" width="640" height="372" />
+	<SubTexture name="Bob Portrait Enter HELL0004" x="640" y="372" width="640" height="372" />
+	<SubTexture name="Bob Portrait Enter HELL0005" x="1280" y="372" width="640" height="372" />
+	<SubTexture name="Bob Portrait Enter HELL0006" x="1280" y="372" width="640" height="372" />
+	<SubTexture name="Bob Portrait Enter HELL0007" x="1280" y="372" width="640" height="372" />
+	<SubTexture name="Bob Portrait Enter HELL0008" x="1280" y="372" width="640" height="372" />
+	<SubTexture name="Bob Portrait Enter Mad0000" x="0" y="744" width="640" height="372" />
+	<SubTexture name="Bob Portrait Enter Mad0001" x="640" y="744" width="640" height="372" />
+	<SubTexture name="Bob Portrait Enter Mad0002" x="1280" y="744" width="640" height="372" />
+	<SubTexture name="Bob Portrait Enter Mad0003" x="0" y="1116" width="640" height="372" />
+	<SubTexture name="Bob Portrait Enter Mad0004" x="640" y="1116" width="640" height="372" />
+	<SubTexture name="Bob Portrait Enter Mad0005" x="1280" y="1116" width="640" height="372" />
+	<SubTexture name="Bob Portrait Enter Mad0006" x="1280" y="1116" width="640" height="372" />
+	<SubTexture name="Bob Portrait Enter Mad0007" x="1280" y="1116" width="640" height="372" />
+	<SubTexture name="Bob Portrait Enter Mad0008" x="1280" y="1116" width="640" height="372" />
+</TextureAtlas>

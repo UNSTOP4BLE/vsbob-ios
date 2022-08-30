@@ -1,0 +1,10 @@
+<TextureAtlas imagePath="ronPortrait.png">
+	
+	
+	<SubTexture name="Ron Enter0000" x="5" y="5" width="640" height="371" />
+	<SubTexture name="Ron Enter0001" x="5" y="5" width="640" height="371" />
+	<SubTexture name="Ron Enter0002" x="5" y="381" width="640" height="371" />
+	<SubTexture name="Ron Enter0003" x="5" y="381" width="640" height="371" />
+	<SubTexture name="Ron Enter0004" x="5" y="758" width="640" height="371" />
+	<SubTexture name="Ron Enter0005" x="5" y="758" width="640" height="371" />
+</TextureAtlas>
